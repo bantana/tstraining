@@ -1,0 +1,2 @@
+# tstraining
+typescript learning
